@@ -56,10 +56,10 @@ async function fetchPatientsRecord(page, url) {
             const pid = e[0];
             return {
                 pid: pid,
-                age: e[1],
+                age_group: e[1],
                 gender: e[2],
                 address: e[3],
-                job: e[4],
+                job_pattern: e[4],
                 symptom: e[5],
                 date: e[6],
                 note: e[7].split('\n').map((e, idx) => {
