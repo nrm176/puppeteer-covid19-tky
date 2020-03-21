@@ -1,10 +1,10 @@
 [
   {
     "pid": "119",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱",
     "date": "3月11日",
     "note": [
@@ -48,10 +48,10 @@
   },
   {
     "pid": "120",
-    "age": "20",
+    "age_group": "20",
     "gender": "男性",
     "address": "都内",
-    "job": "学生",
+    "job_pattern": "学生",
     "symptom": "発熱、咳",
     "date": "3月17日",
     "note": [
@@ -80,10 +80,10 @@
   },
   {
     "pid": "121",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱",
     "date": "3月14日",
     "note": [
@@ -122,10 +122,10 @@
   },
   {
     "pid": "122",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "大学教員",
+    "job_pattern": "大学教員",
     "symptom": "発熱",
     "date": "3月8日",
     "note": [
@@ -159,10 +159,10 @@
   },
   {
     "pid": "123",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都外",
-    "job": "団体職員",
+    "job_pattern": "団体職員",
     "symptom": "発熱、倦怠感",
     "date": "3月10日",
     "note": [
@@ -196,10 +196,10 @@
   },
   {
     "pid": "124",
-    "age": "70",
+    "age_group": "70",
     "gender": "女性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱",
     "date": "3月9日",
     "note": [
@@ -248,10 +248,10 @@
   },
   {
     "pid": "125",
-    "age": "50",
+    "age_group": "50",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱、倦怠感",
     "date": "3月2日",
     "note": [
@@ -275,10 +275,10 @@
   },
   {
     "pid": "126",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、倦怠感",
     "date": "3月15日",
     "note": [
@@ -322,10 +322,10 @@
   },
   {
     "pid": "127",
-    "age": "20",
+    "age_group": "20",
     "gender": "男性",
     "address": "都内",
-    "job": "学生",
+    "job_pattern": "学生",
     "symptom": "発熱",
     "date": "3月13日",
     "note": [
@@ -364,10 +364,10 @@
   },
   {
     "pid": "128",
-    "age": "50",
+    "age_group": "50",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱",
     "date": "3月15日",
     "note": [
@@ -401,10 +401,10 @@
   },
   {
     "pid": "129",
-    "age": "50",
+    "age_group": "50",
     "gender": "女性",
     "address": "都内",
-    "job": "団体職員",
+    "job_pattern": "団体職員",
     "symptom": "発熱",
     "date": "3月13日",
     "note": [
@@ -433,10 +433,10 @@
   },
   {
     "pid": "112",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱、咳",
     "date": "3月16日",
     "note": [
@@ -460,10 +460,10 @@
   },
   {
     "pid": "113",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "会社役員",
+    "job_pattern": "会社役員",
     "symptom": "発熱",
     "date": "3月5日",
     "note": [
@@ -527,10 +527,10 @@
   },
   {
     "pid": "114",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳",
     "date": "3月13日",
     "note": [
@@ -554,10 +554,10 @@
   },
   {
     "pid": "115",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱、咳、倦怠感",
     "date": "3月12日",
     "note": [
@@ -601,10 +601,10 @@
   },
   {
     "pid": "116",
-    "age": "50",
+    "age_group": "50",
     "gender": "女性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱、咳",
     "date": "3月2日",
     "note": [
@@ -648,10 +648,10 @@
   },
   {
     "pid": "117",
-    "age": "80",
+    "age_group": "80",
     "gender": "男性",
     "address": "都内",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱、\n呼吸困難",
     "date": "3月11日",
     "note": [
@@ -690,10 +690,10 @@
   },
   {
     "pid": "118",
-    "age": "20",
+    "age_group": "20",
     "gender": "女性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳、倦怠感",
     "date": "3月8日",
     "note": [
@@ -742,10 +742,10 @@
   },
   {
     "pid": "103",
-    "age": "20",
+    "age_group": "20",
     "gender": "男性",
     "address": "都外",
-    "job": "学生",
+    "job_pattern": "学生",
     "symptom": "発熱、倦怠感",
     "date": "2月26日",
     "note": [
@@ -779,10 +779,10 @@
   },
   {
     "pid": "104",
-    "age": "70",
+    "age_group": "70",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳",
     "date": "3月8日",
     "note": [
@@ -836,10 +836,10 @@
   },
   {
     "pid": "105",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱、咽頭痛、痰",
     "date": "3月11日",
     "note": [
@@ -873,10 +873,10 @@
   },
   {
     "pid": "106",
-    "age": "70",
+    "age_group": "70",
     "gender": "女性",
     "address": "都外",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱",
     "date": "3月14日",
     "note": [
@@ -900,10 +900,10 @@
   },
   {
     "pid": "107",
-    "age": "30",
+    "age_group": "30",
     "gender": "女性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱",
     "date": "3月10日",
     "note": [
@@ -947,10 +947,10 @@
   },
   {
     "pid": "108",
-    "age": "20",
+    "age_group": "20",
     "gender": "女性",
     "address": "都内",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱、倦怠感",
     "date": "3月16日",
     "note": [
@@ -974,10 +974,10 @@
   },
   {
     "pid": "109",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、倦怠感",
     "date": "3月12日",
     "note": [
@@ -1011,10 +1011,10 @@
   },
   {
     "pid": "110",
-    "age": "40",
+    "age_group": "40",
     "gender": "女性",
     "address": "都内",
-    "job": "パート\n従業員",
+    "job_pattern": "パート\n従業員",
     "symptom": "発熱、咳",
     "date": "3月10日",
     "note": [
@@ -1048,10 +1048,10 @@
   },
   {
     "pid": "111",
-    "age": "20",
+    "age_group": "20",
     "gender": "女性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱",
     "date": "3月8日",
     "note": [
@@ -1100,10 +1100,10 @@
   },
   {
     "pid": "91",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱、咳",
     "date": "3月8日",
     "note": [
@@ -1122,10 +1122,10 @@
   },
   {
     "pid": "92",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱",
     "date": "3月12日",
     "note": [
@@ -1154,10 +1154,10 @@
   },
   {
     "pid": "93",
-    "age": "50",
+    "age_group": "50",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳、倦怠感",
     "date": "3月7日",
     "note": [
@@ -1206,10 +1206,10 @@
   },
   {
     "pid": "94",
-    "age": "50",
+    "age_group": "50",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳、咽頭痛",
     "date": "3月10日",
     "note": [
@@ -1228,10 +1228,10 @@
   },
   {
     "pid": "95",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "団体役員",
+    "job_pattern": "団体役員",
     "symptom": "発熱、倦怠感",
     "date": "3月14日",
     "note": [
@@ -1260,10 +1260,10 @@
   },
   {
     "pid": "96",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱",
     "date": "3月7日",
     "note": [
@@ -1317,10 +1317,10 @@
   },
   {
     "pid": "97",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳\n倦怠感",
     "date": "3月10日",
     "note": [
@@ -1349,10 +1349,10 @@
   },
   {
     "pid": "98",
-    "age": "50",
+    "age_group": "50",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱",
     "date": "3月13日",
     "note": [
@@ -1376,10 +1376,10 @@
   },
   {
     "pid": "99",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳\n倦怠感、咽頭痛",
     "date": "3月12日",
     "note": [
@@ -1413,10 +1413,10 @@
   },
   {
     "pid": "100",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳\n倦怠感",
     "date": "3月8日",
     "note": [
@@ -1450,10 +1450,10 @@
   },
   {
     "pid": "101",
-    "age": "50",
+    "age_group": "50",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳\n倦怠感",
     "date": "3月6日",
     "note": [
@@ -1507,10 +1507,10 @@
   },
   {
     "pid": "102",
-    "age": "50",
+    "age_group": "50",
     "gender": "女性",
     "address": "都内",
-    "job": "パート\n従業員",
+    "job_pattern": "パート\n従業員",
     "symptom": "発熱、咽頭痛",
     "date": "3月4日",
     "note": [
@@ -1569,10 +1569,10 @@
   },
   {
     "pid": "88",
-    "age": "20",
+    "age_group": "20",
     "gender": "男性",
     "address": "都内",
-    "job": "公務員",
+    "job_pattern": "公務員",
     "symptom": "発熱、咳",
     "date": "3月10日",
     "note": [
@@ -1606,10 +1606,10 @@
   },
   {
     "pid": "89",
-    "age": "30",
+    "age_group": "30",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、倦怠感",
     "date": "3月4日",
     "note": [
@@ -1658,10 +1658,10 @@
   },
   {
     "pid": "90",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "教員",
+    "job_pattern": "教員",
     "symptom": "発熱、咳",
     "date": "3月3日",
     "note": [
@@ -1715,10 +1715,10 @@
   },
   {
     "pid": "78",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都外",
-    "job": "公務員",
+    "job_pattern": "公務員",
     "symptom": "無",
     "date": "ー",
     "note": [
@@ -1732,10 +1732,10 @@
   },
   {
     "pid": "79",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳\n倦怠感",
     "date": "3月9日",
     "note": [
@@ -1764,10 +1764,10 @@
   },
   {
     "pid": "80",
-    "age": "30",
+    "age_group": "30",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "発熱、咳",
     "date": "3月7日",
     "note": [
@@ -1806,10 +1806,10 @@
   },
   {
     "pid": "81",
-    "age": "40",
+    "age_group": "40",
     "gender": "女性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、痰",
     "date": "3月6日",
     "note": [
@@ -1838,10 +1838,10 @@
   },
   {
     "pid": "82",
-    "age": "70",
+    "age_group": "70",
     "gender": "男性",
     "address": "都外",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱、\n倦怠感",
     "date": "3月4日",
     "note": [
@@ -1865,10 +1865,10 @@
   },
   {
     "pid": "83",
-    "age": "30",
+    "age_group": "30",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咽頭痛",
     "date": "3月7日",
     "note": [
@@ -1907,10 +1907,10 @@
   },
   {
     "pid": "84",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "自営業",
+    "job_pattern": "自営業",
     "symptom": "咳、痰",
     "date": "3月11日",
     "note": [
@@ -1934,10 +1934,10 @@
   },
   {
     "pid": "85",
-    "age": "40",
+    "age_group": "40",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、倦怠感",
     "date": "3月6日",
     "note": [
@@ -1986,10 +1986,10 @@
   },
   {
     "pid": "86",
-    "age": "60",
+    "age_group": "60",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱",
     "date": "3月5日",
     "note": [
@@ -2018,10 +2018,10 @@
   },
   {
     "pid": "87",
-    "age": "50",
+    "age_group": "50",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、倦怠感、咳",
     "date": "3月5日",
     "note": [
@@ -2070,10 +2070,10 @@
   },
   {
     "pid": "76",
-    "age": "50",
+    "age_group": "50",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱",
     "date": "3月10日",
     "note": [
@@ -2092,10 +2092,10 @@
   },
   {
     "pid": "77",
-    "age": "80",
+    "age_group": "80",
     "gender": "女性",
     "address": "都内",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱",
     "date": "3月6日",
     "note": [
@@ -2119,10 +2119,10 @@
   },
   {
     "pid": "74",
-    "age": "60",
+    "age_group": "60",
     "gender": "女性",
     "address": "都内",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱、倦怠感",
     "date": "3月3日",
     "note": [
@@ -2151,10 +2151,10 @@
   },
   {
     "pid": "75",
-    "age": "70",
+    "age_group": "70",
     "gender": "女性",
     "address": "都内",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱、咳\n咽頭痛",
     "date": "3月9日",
     "note": [
@@ -2178,10 +2178,10 @@
   },
   {
     "pid": "68",
-    "age": "30代",
+    "age_group": "30代",
     "gender": "女性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、倦怠感",
     "date": "3月4日",
     "note": [
@@ -2225,10 +2225,10 @@
   },
   {
     "pid": "69",
-    "age": "80代",
+    "age_group": "80代",
     "gender": "女性",
     "address": "都内",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱",
     "date": "3月6日",
     "note": [
@@ -2242,10 +2242,10 @@
   },
   {
     "pid": "70",
-    "age": "40代",
+    "age_group": "40代",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳、痰",
     "date": "2月28日",
     "note": [
@@ -2279,10 +2279,10 @@
   },
   {
     "pid": "71",
-    "age": "50代",
+    "age_group": "50代",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、咳",
     "date": "3月2日",
     "note": [
@@ -2301,10 +2301,10 @@
   },
   {
     "pid": "72",
-    "age": "50代",
+    "age_group": "50代",
     "gender": "女性",
     "address": "都内",
-    "job": "団体職員",
+    "job_pattern": "団体職員",
     "symptom": "発熱、咳",
     "date": "2月26日",
     "note": [
@@ -2338,10 +2338,10 @@
   },
   {
     "pid": "73",
-    "age": "60代",
+    "age_group": "60代",
     "gender": "男性",
     "address": "都内",
-    "job": "無職",
+    "job_pattern": "無職",
     "symptom": "発熱",
     "date": "3月2日",
     "note": [
@@ -2375,10 +2375,10 @@
   },
   {
     "pid": "65",
-    "age": "50代",
+    "age_group": "50代",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱、痰",
     "date": "3月2日",
     "note": [
@@ -2412,10 +2412,10 @@
   },
   {
     "pid": "66",
-    "age": "70代",
+    "age_group": "70代",
     "gender": "男性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "発熱",
     "date": "3月3日",
     "note": [
@@ -2434,10 +2434,10 @@
   },
   {
     "pid": "67",
-    "age": "40代",
+    "age_group": "40代",
     "gender": "女性",
     "address": "都内",
-    "job": "会社員",
+    "job_pattern": "会社員",
     "symptom": "なし",
     "date": "ー",
     "note": [

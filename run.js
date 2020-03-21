@@ -1,6 +1,5 @@
 const puppeteer = require('puppeteer');
-const fs = require('fs');
-
+const Fs = require('fs-extra')
 
 const USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, likeGecko) Chrome/41.0.2228.0 Safari/537.36';
 const COVID19_TOKYO_URL = 'https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html';
