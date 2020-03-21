@@ -62,7 +62,7 @@ async function fetchPatientsRecord(page, url) {
                 symptom: e[5],
                 date: e[6],
                 note: e[7].split('\n').map((e, idx) => {
-                    return {pid: pid, hid: idx, body: e}
+                    return {pid: pid, hid: `${pid}-${idx}`, body: e}
                 }),
                 raw_note: e[7]
             }
