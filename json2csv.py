@@ -5,7 +5,7 @@ if sys.argv[1] is not None and sys.argv[2] is not None and sys.argv[3] is not No
     file_patients = sys.argv[2]
     file_histories = sys.argv[3]
 
-    patients_keys = {'pid', 'age', 'gender', 'address', 'job', 'symptom', 'date'}
+    patients_keys = {'pid', 'age_group', 'gender', 'address', 'job_pattern', 'symptom', 'date'}
     history_keys = {'pid', 'hid', 'body'}
 
     inputFile = open(fileInput)  # open json file
