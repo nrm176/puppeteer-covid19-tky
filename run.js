@@ -54,7 +54,7 @@ async function fetchPatientsRecord(page, url) {
         }).map((e) => {
             const pid = e[0];
             return {
-                pid: pid,
+                pid: parseInt(pid),
                 age_group: e[1],
                 gender: e[2],
                 address: e[3],

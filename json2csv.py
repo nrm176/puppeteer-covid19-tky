@@ -19,6 +19,7 @@ if sys.argv[1] is not None and sys.argv[2] is not None and sys.argv[3] is not No
     writer_patients.writerow(patients_keys)  # header row
     writer_histories.writerow(history_keys)  # header row
 
+    data = sorted(data, key=lambda i: i['pid'])
     patients = [OrderedDict([(key, row[key]) for key in row.keys() & patients_keys]) for row in data]
     histories = [row.get('note') for row in data]
 
