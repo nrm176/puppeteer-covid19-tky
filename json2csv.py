@@ -1,4 +1,5 @@
 import csv, json, sys
+from collections import OrderedDict
 
 if sys.argv[1] is not None and sys.argv[2] is not None and sys.argv[3] is not None:
     fileInput = sys.argv[1]
@@ -17,10 +18,13 @@ if sys.argv[1] is not None and sys.argv[2] is not None and sys.argv[3] is not No
     writer_histories = csv.writer(output_histories)  # create a csv.write
     writer_patients.writerow(patients_keys)  # header row
     writer_histories.writerow(history_keys)  # header row
-    for row in data:
-        patient = {key: row[key] for key in row.keys() & patients_keys}
+
+    patients = [OrderedDict([(key, row[key]) for key in row.keys() & patients_keys]) for row in data]
+    histories = [row.get('note') for row in data]
+
+    for patient in patients:
         writer_patients.writerow(patient.values())
 
-        histories = row.get('note')
-        for history in histories:
-            writer_histories.writerow(history.values())
+    for history in histories:
+        for item in history:
+            writer_histories.writerow(item.values())
